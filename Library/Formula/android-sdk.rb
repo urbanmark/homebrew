@@ -1,10 +1,10 @@
 require 'formula'
 
 class AndroidSdk <Formula
-  url 'http://dl.google.com/android/android-sdk_r09-mac_x86.zip'
+  url 'http://dl.google.com/android/android-sdk_r10-mac_x86.zip'
   homepage 'http://developer.android.com/index.html'
-  md5 'ef3102fdbbbbd9bf4d9b572624aa9dc1'
-  version 'r9'
+  md5 '4d0a99a458e4f4bde65a01f8545f27e9'
+  version 'r10'
 
   def self.var_dirs
     %w[platforms samples temp add-ons ]
