@@ -3,7 +3,7 @@ require 'formula'
 class AndroidSdk <Formula
   url 'http://dl.google.com/android/android-sdk_r10-mac_x86.zip'
   homepage 'http://developer.android.com/index.html'
-  md5 '4d0a99a458e4f4bde65a01f8545f27e9'
+  md5 'e3aa5578a6553b69cc36659c9505be3f'
   version 'r10'
 
   def self.var_dirs
